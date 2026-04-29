@@ -1,12 +1,12 @@
-# Hi, I'm Richard 👋
+## Hi, I'm Richard 👋
 
 CS grad from Penn State. I like building things across the stack — 
 from web apps to systems programming to robotics software.
 
-## 🔧 Currently Working On
+### 🔧 Currently Working On
 Web development at Web Surfing Studios with ASP.NET, C#, and MySQL
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 C# · ASP.NET · Python · SQL · JavaScript · C · HTML/CSS
 
 <!--
