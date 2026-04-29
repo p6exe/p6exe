@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Richard 👋
+
+CS grad from Penn State. I like building things across the stack — 
+from web apps to systems programming to robotics software.
+
+## 🔧 Currently Working On
+Web development at Web Surfing Studios with ASP.NET, C#, and MySQL
+
+## 🛠 Tech Stack
+C# · ASP.NET · Python · SQL · JavaScript · C · HTML/CSS
 
 <!--
 **p6exe/p6exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
