@@ -1,6 +1,6 @@
 ## Hi, I'm Richard 👋
 
-CS grad from Penn State. I like building things across the stack, 
+I'm a Computer Science grad from Penn State. I like building things across the stack, 
 from web apps to systems programming to robotics software.
 
 This profile is where I post my school and personal projects. 
