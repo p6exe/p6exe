@@ -5,11 +5,11 @@ from web apps to systems programming to robotics software.
 
 This profile is where I post my school and personal projects. 
 
-### 🔧 Currently Working On
+### Currently Working On
 Web development at Web Surfing Studios with ASP.NET, C#, and MySQL
 
-### 🛠 Tech Stack
-C# · ASP.NET · Python · SQL · JavaScript · C · HTML/CSS
+### Tech Stack
+C# · Python · ASP.NET · .NET Framework · SQL · JavaScript · C · HTML/CSS
 
 
 <!--
